@@ -34,6 +34,11 @@ export default {
             title: "Role",
             type: "string",
         },
+        {
+               name: "tagline",
+               title: "Tagline",
+               type: "string",
+           },
 
         {
             name: "phone",
